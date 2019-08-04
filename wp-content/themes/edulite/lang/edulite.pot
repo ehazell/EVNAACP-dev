@@ -1,0 +1,424 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: education-hubs\n"
+"POT-Creation-Date: 2019-02-16 12:06+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name "
+"<translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;"
+"esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "Nothig Found"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"Sorry, but the page you are looking for does "
+"not existing\n"
+"                       "
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Back To Home\n"
+"                      "
+msgstr ""
+
+#: archive.php:49 index.php:45 search.php:63
+msgid "&lt;"
+msgstr ""
+
+#: archive.php:50 index.php:46 search.php:64
+msgid "&gt;"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural ""
+"%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: content-parts/content-none.php:11
+msgid ""
+"Ready to publish your first post? Get started "
+"here."
+msgstr ""
+
+#: content-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. "
+"Please try again with some different keywords."
+msgstr ""
+
+#: content-parts/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;"
+"re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-parts/content-single.php:10
+#: content-parts/content.php:12
+#: section-parts/front-page-blogs.php:40
+#: section-parts/front-page-courses.php:81
+msgid "By"
+msgstr ""
+
+#: content-parts/content-single.php:15
+#: content-parts/content.php:16
+msgid "Comments : 0"
+msgstr ""
+
+#: content-parts/content-single.php:15
+#: content-parts/content.php:16
+msgid "Comments : 1"
+msgstr ""
+
+#: content-parts/content-single.php:15
+#: content-parts/content.php:16
+msgid "Comments :  %"
+msgstr ""
+
+#: content-parts/content-single.php:19
+msgid "Tags :"
+msgstr ""
+
+#: content-parts/content-single.php:28
+#: page.php:39 template-full.php:32
+msgid "Pages: "
+msgstr ""
+
+#: content-parts/content.php:23
+#: section-parts/front-page-blogs.php:53
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:23
+msgid "Show"
+msgstr ""
+
+#: customizer.php:24
+msgid "Hide"
+msgstr ""
+
+#: customizer.php:35
+msgid "2 Column Layout"
+msgstr ""
+
+#: customizer.php:36
+msgid "3 Column Layout"
+msgstr ""
+
+#: customizer.php:37
+msgid "4 Column Layout"
+msgstr ""
+
+#: customizer.php:105 customizer.php:123
+msgid "Footer Option"
+msgstr ""
+
+#: customizer.php:124
+msgid "Show/hide option for Footer Section."
+msgstr ""
+
+#: customizer.php:141
+msgid "Copyright"
+msgstr ""
+
+#: customizer.php:155
+msgid "edulite Options"
+msgstr ""
+
+#: customizer.php:166
+msgid "Home social Icon Section"
+msgstr ""
+
+#: customizer.php:185
+msgid "header Option"
+msgstr ""
+
+#: customizer.php:186
+msgid ""
+"Show/hide option for social Icon Section."
+msgstr ""
+
+#: customizer.php:211
+msgid "facebook url"
+msgstr ""
+
+#: customizer.php:234
+msgid "instagram url"
+msgstr ""
+
+#: customizer.php:256
+msgid "twitter url"
+msgstr ""
+
+#: customizer.php:280
+msgid "Google+ url"
+msgstr ""
+
+#: customizer.php:291
+msgid "Edulite Options"
+msgstr ""
+
+#: customizer.php:302
+msgid "Header Section"
+msgstr ""
+
+#: customizer.php:322
+msgid "Header Option"
+msgstr ""
+
+#: customizer.php:323
+msgid "Show/hide option for Header Section."
+msgstr ""
+
+#: customizer.php:341
+msgid "mail Text"
+msgstr ""
+
+#: customizer.php:358
+msgid "mail value"
+msgstr ""
+
+#: customizer.php:374
+msgid "call text"
+msgstr ""
+
+#: customizer.php:390
+msgid "call value"
+msgstr ""
+
+#: customizer.php:408 customizer.php:785
+msgid "Button URL"
+msgstr ""
+
+#: customizer.php:424 customizer.php:803
+msgid "Button Text"
+msgstr ""
+
+#: customizer.php:435
+msgid "Home Banner section"
+msgstr ""
+
+#: customizer.php:453
+msgid "Show/hide option for Image Section."
+msgstr ""
+
+#: customizer.php:468
+msgid "Image"
+msgstr ""
+
+#: customizer.php:481
+msgid "Heading"
+msgstr ""
+
+#: customizer.php:493
+msgid "Sub Heading"
+msgstr ""
+
+#: customizer.php:505
+msgid "Button 1 - Text"
+msgstr ""
+
+#: customizer.php:517
+msgid "Button 1 - URL"
+msgstr ""
+
+#: customizer.php:529
+msgid "Button 2 - Text"
+msgstr ""
+
+#: customizer.php:541
+msgid "Button 2 - URL"
+msgstr ""
+
+#: customizer.php:549
+msgid "Home About section"
+msgstr ""
+
+#: customizer.php:567
+msgid "Show/hide option for About Us Section."
+msgstr ""
+
+#: customizer.php:590
+msgid "about page "
+msgstr ""
+
+#: customizer.php:606
+msgid "Button - Text"
+msgstr ""
+
+#: customizer.php:622
+msgid "Button - URL"
+msgstr ""
+
+#: customizer.php:633
+msgid "Home Courses Section"
+msgstr ""
+
+#: customizer.php:653
+msgid "courses Option"
+msgstr ""
+
+#: customizer.php:654
+msgid "Show/hide option Section."
+msgstr ""
+
+#: customizer.php:674
+msgid "course Title"
+msgstr ""
+
+#: customizer.php:692
+msgid "course description"
+msgstr ""
+
+#: customizer.php:716
+msgid "course Page "
+msgstr ""
+
+#: customizer.php:726
+msgid "Home Callout Section"
+msgstr ""
+
+#: customizer.php:746
+msgid "Home Callout"
+msgstr ""
+
+#: customizer.php:747
+msgid ""
+"Show/hide option for Footer Callout Section."
+msgstr ""
+
+#: customizer.php:766
+msgid "Callout Text"
+msgstr ""
+
+#: customizer.php:812
+msgid "Home Blog Section"
+msgstr ""
+
+#: customizer.php:831
+msgid "Blog Option"
+msgstr ""
+
+#: customizer.php:832
+msgid "Show/hide option for Blog Section."
+msgstr ""
+
+#: customizer.php:849
+msgid "Blog Title"
+msgstr ""
+
+#: footer.php:29
+#, php-format
+msgid " %1$sPowered by %2$s%3$s"
+msgstr ""
+
+#: footer.php:29
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:29
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid ""
+" Theme: edulite  %1$sDesign By : %2$s%3$s"
+msgstr ""
+
+#: footer.php:31
+msgid "http://hubblethemes.com"
+msgstr ""
+
+#: footer.php:31
+msgid "hubblethemes"
+msgstr ""
+
+#: functions.php:67
+msgid "primary Menu"
+msgstr ""
+
+#: functions.php:140
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:142
+msgid "Sidebar on the blog layout."
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:155
+msgid "The footer widget area"
+msgstr ""
+
+#: header.php:33
+msgid "Go to top"
+msgstr ""
+
+#: header.php:34
+msgid "Top"
+msgstr ""
+
+#: index.php:19
+msgid "Blog"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:30
+#, php-format
+msgid "Nothing Found for: %s"
+msgstr ""
+
+#: section-parts/front-page-courses.php:69
+msgid "Buy Now"
+msgstr ""
+
+#: wp-bootstrap-navwalker.php:406
+msgid "Add a menu"
+msgstr ""
